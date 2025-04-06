@@ -7,7 +7,7 @@
     <aspectRatio>16:10</aspectRatio>
     <aspectRatio>4:3</aspectRatio>
     <aspectRatio>21:9</aspectRatio>
-    
+
     <suppressTransitionProfiles>
         <entry>builtin-instant</entry>
         <entry>builtin-slide</entry>
@@ -15,7 +15,7 @@
     </suppressTransitionProfiles>
     <fontSize>medium</fontSize>
     <fontSize>x-large</fontSize>
-    
+
     <language>en_US</language>
     <language>en_GB</language>
     <language>ca_ES</language>
@@ -32,7 +32,6 @@
     <language>ja_JP</language>
     <language>ko_KR</language>
     <language>zh_CN</language>
-    <language>zh_TW</language>
 
 
     <transitions name="instantfade">
@@ -56,56 +55,66 @@
         <startupToSystem>instant</startupToSystem>
         <startupToGamelist>instant</startupToGamelist>
     </transitions>
-    
+
     <themeName>CodyWheel</themeName>
 
     <colorScheme name="mono">
         <label>Black n White</label>
     </colorScheme>
-    
     <colorScheme name="gold">
         <label>Gold</label>
     </colorScheme>
-
-   
-
     <colorScheme name="blue">
         <label>Blue</label>
     </colorScheme>
-
-    
     <colorScheme name="gameboy">
         <label>Gameboy</label>
     </colorScheme>
-
     <colorScheme name="gameboycase">
         <label>Hitman</label>
     </colorScheme>
-
     <colorScheme name="retro">
         <label>Retro</label>
     </colorScheme>
-    
     <colorScheme name="classy">
         <label>Stay Classy</label>
     </colorScheme>
-
     <colorScheme name="comm">
         <label>Black n Blue</label>
     </colorScheme>
-
     <colorScheme name="chill">
         <label>Chilled</label>
     </colorScheme>
-
     <colorScheme name="purplerain">
         <label>Purple Rain</label>
     </colorScheme>
-
+    <colorScheme name="ps2">
+        <label>PS2</label>
+    </colorScheme>
+    <colorScheme name="neon">
+        <label>Neon Red</label>
+    </colorScheme>
+    <colorScheme name="void">
+        <label>Dark Void</label>
+    </colorScheme>
+    <colorScheme name="chocobanana">
+        <label>Choco-Banana</label>
+    </colorScheme>
+    <colorScheme name="gotham">
+        <label>Gotham Clown</label>
+    </colorScheme>
+    <colorScheme name="sakura">
+        <label>Sakura no Hana</label>
+    </colorScheme>
+    <colorScheme name="cleanyellow">
+        <label>Clean Yellow</label>
+    </colorScheme>
+    <colorScheme name="cleanred">
+        <label>Clean Red</label>
+    </colorScheme>
     <colorScheme name="orange">
         <label>Rusty</label>
     </colorScheme>
-
     <colorScheme name="sega">
         <label>Sega</label>
     </colorScheme>
@@ -114,7 +123,6 @@
         <label>Text Gamelist</label>
         <selectable>true</selectable>
     </variant>
-
     <variant name="gamecarousel">
         <label>Carousel Gamelist</label>
         <selectable>true</selectable>
@@ -123,4 +131,5 @@
         <label>Grid Gamelist</label>
         <selectable>true</selectable>
     </variant>
+
 </themeCapabilities>

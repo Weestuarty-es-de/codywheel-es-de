@@ -25,7 +25,7 @@
             <helpColor1>c59a6f</helpColor1>
         </variables>
     </colorScheme>
-<colorScheme name="gold">
+    <colorScheme name="gold">
         <variables>
             <colorSchemeName>gold</colorSchemeName>
             <backgroundColor>111111</backgroundColor>
@@ -51,7 +51,7 @@
             <helpColor1>5e3427</helpColor1>
         </variables>
     </colorScheme>
-    
+
     <colorScheme name="blue">
         <variables>
             <colorSchemeName>blue</colorSchemeName>
@@ -65,7 +65,7 @@
             <helpColor1>96b7ee</helpColor1>
         </variables>
     </colorScheme>
-	<colorScheme name="chill">
+    <colorScheme name="chill">
         <variables>
             <colorSchemeName>chill</colorSchemeName>
             <backgroundColor>47697e</backgroundColor>
@@ -89,6 +89,110 @@
             <textColor>7d6e86</textColor>
             <helpColor>bdaec6</helpColor>
             <helpColor1>bdaec6</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="ps2">
+        <variables>
+            <colorSchemeName>ps2</colorSchemeName>
+            <backgroundColor>000000</backgroundColor>
+            <outlineColor1>13047e</outlineColor1>
+            <systemlogoColor>1191dc</systemlogoColor>
+            <gamelistColor>13047e</gamelistColor>
+            <textColor1>cfcfcf</textColor1>
+            <textColor>acacac</textColor>
+            <helpColor>1191dc</helpColor>
+            <helpColor1>1191dc</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="neon">
+        <variables>
+            <colorSchemeName>neon</colorSchemeName>
+            <backgroundColor>000000</backgroundColor>
+            <outlineColor1>ff1400</outlineColor1>
+            <systemlogoColor>ff1400</systemlogoColor>
+            <gamelistColor>000000</gamelistColor>
+            <textColor1>ff1400</textColor1>
+            <textColor>ff1400</textColor>
+            <helpColor>ff1400</helpColor>
+            <helpColor1>ff1400</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="void">
+        <variables>
+            <colorSchemeName>void</colorSchemeName>
+            <backgroundColor>1a1d1f</backgroundColor>
+            <outlineColor1>ff001b</outlineColor1>
+            <systemlogoColor>7a7a7a</systemlogoColor>
+            <gamelistColor>483042</gamelistColor>
+            <textColor1>7a7a7a</textColor1>
+            <textColor>7a7a7a</textColor>
+            <helpColor>7a7a7a</helpColor>
+            <helpColor1>7a7a7a</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="chocobanana">
+        <variables>
+            <colorSchemeName>chocobanana</colorSchemeName>
+            <backgroundColor>4b2613</backgroundColor>
+            <outlineColor1>ffd88c</outlineColor1>
+            <systemlogoColor>ffe159</systemlogoColor>
+            <gamelistColor>ffe362</gamelistColor>
+            <textColor1>ffed9a</textColor1>
+            <textColor>4b2613</textColor>
+            <helpColor>ffe362</helpColor>
+            <helpColor1>ffe362</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="gotham">
+        <variables>
+            <colorSchemeName>chocobanana</colorSchemeName>
+            <backgroundColor>006306</backgroundColor>
+            <outlineColor1>975a8f</outlineColor1>
+            <systemlogoColor>860087</systemlogoColor>
+            <gamelistColor>860087</gamelistColor>
+            <textColor1>ff8000</textColor1>
+            <textColor>ff8000</textColor>
+            <helpColor>ff8000</helpColor>
+            <helpColor1>ff8000</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="sakura">
+        <variables>
+            <colorSchemeName>sakura</colorSchemeName>
+            <backgroundColor>ff9fa7</backgroundColor>
+            <outlineColor1>d90050</outlineColor1>
+            <systemlogoColor>d90050</systemlogoColor>
+            <gamelistColor>d90050</gamelistColor>
+            <textColor1>ff9fa7</textColor1>
+            <textColor>ff9fa7</textColor>
+            <helpColor>ff9fa7</helpColor>
+            <helpColor1>ff9fa7</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="cleanyellow">
+        <variables>
+            <colorSchemeName>cleanyellow</colorSchemeName>
+            <backgroundColor>ffd100</backgroundColor>
+            <outlineColor1>000000</outlineColor1>
+            <systemlogoColor>ffd100</systemlogoColor>
+            <gamelistColor>ffd100</gamelistColor>
+            <textColor1>000000</textColor1>
+            <textColor>000000</textColor>
+            <helpColor>000000</helpColor>
+            <helpColor1>000000</helpColor1>
+        </variables>
+    </colorScheme>
+    <colorScheme name="cleanred">
+        <variables>
+            <colorSchemeName>cleanred</colorSchemeName>
+            <backgroundColor>d10016</backgroundColor>
+            <outlineColor1>ffe4e4</outlineColor1>
+            <systemlogoColor>d10016</systemlogoColor>
+            <gamelistColor>d10016</gamelistColor>
+            <textColor1>ffe4e4</textColor1>
+            <textColor>ffe4e4</textColor>
+            <helpColor>ffe4e4</helpColor>
+            <helpColor1>ffe4e4</helpColor1>
         </variables>
     </colorScheme>
     <colorScheme name="orange">
@@ -115,7 +219,7 @@
             <textColor>1e2923</textColor>
             <helpColor>1e2923</helpColor>
             <helpColor1>111111</helpColor1>
-            
+
         </variables>
     </colorScheme>
     <colorScheme name="gameboycase">
