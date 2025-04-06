@@ -174,7 +174,7 @@
             <colorSchemeName>cleanyellow</colorSchemeName>
             <backgroundColor>ffd100</backgroundColor>
             <outlineColor1>000000</outlineColor1>
-            <systemlogoColor>ffd100</systemlogoColor>
+            <systemlogoColor>000000</systemlogoColor>
             <gamelistColor>ffd100</gamelistColor>
             <textColor1>000000</textColor1>
             <textColor>000000</textColor>
@@ -187,7 +187,7 @@
             <colorSchemeName>cleanred</colorSchemeName>
             <backgroundColor>d10016</backgroundColor>
             <outlineColor1>ffe4e4</outlineColor1>
-            <systemlogoColor>d10016</systemlogoColor>
+            <systemlogoColor>FFe4e4</systemlogoColor>
             <gamelistColor>d10016</gamelistColor>
             <textColor1>ffe4e4</textColor1>
             <textColor>ffe4e4</textColor>
