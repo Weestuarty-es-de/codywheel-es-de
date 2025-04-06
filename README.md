@@ -34,6 +34,17 @@ The following options are included:
 - Rusty
 - Sega
 
+Additional color schemes:
+
+- PS2
+- Neon Red
+- Dark Void
+- Choco-Banana
+- Gotham Clown
+- Sakura no Hana
+- Clean Yellow
+- Clean Red
+
 4 aspect ratios:
 
 - 16:9
@@ -44,5 +55,5 @@ The following options are included:
 # Credits
 
 The theme is has images from Dan Patricks Svg Logo and Vikings Hardware set on launchbox forums
-Antfortytwo for the system meta pack and as always Leon for the F******G Gradient advice
+Antfortytwo for the system meta pack and as always Leon for the F******G Gradient advice. Additional colourschemes by ShaolinSnake96
 

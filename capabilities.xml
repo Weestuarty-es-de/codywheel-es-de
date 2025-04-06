@@ -88,6 +88,12 @@
     <colorScheme name="purplerain">
         <label>Purple Rain</label>
     </colorScheme>
+    <colorScheme name="orange">
+        <label>Rusty</label>
+    </colorScheme>
+    <colorScheme name="sega">
+        <label>Sega</label>
+    </colorScheme>
     <colorScheme name="ps2">
         <label>PS2</label>
     </colorScheme>
@@ -112,12 +118,7 @@
     <colorScheme name="cleanred">
         <label>Clean Red</label>
     </colorScheme>
-    <colorScheme name="orange">
-        <label>Rusty</label>
-    </colorScheme>
-    <colorScheme name="sega">
-        <label>Sega</label>
-    </colorScheme>
+    
 
     <variant name="gamelist">
         <label>Text Gamelist</label>
