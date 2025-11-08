@@ -558,9 +558,9 @@
 		</image>
 		<image name="player">
 			<path>./assets/badges/default.png</path>
-			<pos>0.35 0.94</pos>
+			<pos>0.3625 0.93</pos>
 			<origin>0.5 0.5</origin>
-			<maxSize>0.05 0.1</maxSize>
+			<maxSize>0.05 0.05</maxSize>
 			<metadataElement>true</metadataElement>
 			<color>${outlineColor1}</color>
 			<zIndex>15</zIndex>
@@ -573,7 +573,7 @@
 			<color>${outlineColor1}</color>
 			<horizontalAlignment>left</horizontalAlignment>
 			<verticalAlignment>center</verticalAlignment>
-			<pos>0.4 0.89</pos>
+			<pos>0.4075 0.88</pos>
 			<size>0.075 0.1</size>
 			<origin>0 0</origin>
 		</text>
@@ -585,10 +585,37 @@
 			<fontSize>${gametext}</fontSize>
 			<color>${outlineColor1}</color>
 			<verticalAlignment>center</verticalAlignment>
-			<pos>0.385 0.89</pos>
+			<pos>0.3925 0.88</pos>
 			<size>0.015 0.1</size>
 			<origin>0 0</origin>
 		</text>
+		<text name="playtime">
+                <pos>0.395 0.95</pos>
+                <size>0.25 0.08</size>
+                <container>true</container>
+                <origin>1 0</origin>
+                <metadata>playtime</metadata>
+                <defaultValue>Never</defaultValue>
+                <fontPath>${mainFont}</fontPath>
+                <fontSize>0.0325</fontSize>
+                <horizontalAlignment>right</horizontalAlignment>
+                <color>${outlineColor1}</color>
+                <letterCase>capitalize</letterCase>
+                <zIndex>32</zIndex>
+            </text>
+            <text name="playtimetext">
+                <pos>0.395 0.95</pos>
+                <size>0.25 0.08</size>
+                <container>true</container>
+                <origin>0 0</origin>
+                <text> Played</text>
+                <fontPath>${mainFont}</fontPath>
+                <fontSize>0.0325</fontSize>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${outlineColor1}</color>
+                <letterCase>capitalize</letterCase>
+                <zIndex>32</zIndex>
+            </text>
 		<text name="developerlbl">
 			<text>${langLabelDeveloper}:</text>
 			<pos>0.5599 0.325</pos>
