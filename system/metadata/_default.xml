@@ -2,10 +2,10 @@
     <variables>
         <systemName>${system.fullName}</systemName>
         <systemDescription>Play ${system.fullName}</systemDescription>
-        <systemManufacturer />
-        <systemReleaseYear />
-        <systemReleaseDate />
-        <systemReleaseDateFormated />
+        <systemManufacturer>:space</systemManufacturer>
+        <systemReleaseYear>:space:</systemReleaseYear>
+        <systemReleaseDate>:space:</systemReleaseDate>
+        <systemReleaseDateFormated>:space:</systemReleaseDateFormated>
         <systemHardwareType>Collection</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
         <systemCoverSizeType>square</systemCoverSizeType>
